@@ -1,4 +1,8 @@
-github.com/urkx/LZWCompress v0.0.0-20240709185010-43004435a753 h1:cHEPuDnA+E9l1UsH9UQ8ZZtLnp6BPtbRcB90F3f6/2o=
-github.com/urkx/LZWCompress v0.0.0-20240709185010-43004435a753/go.mod h1:3Vb9kFknrYEwnvv+AIpvfZhnn7Gv469iu1z2KxxFzho=
+github.com/urkx/LZ77 v0.1.0 h1:AGc1rQgUKooqzPC/j5RFiKAxKYa72nE86rWspshrWcs=
+github.com/urkx/LZ77 v0.1.0/go.mod h1:55YthnSuw7gFVmijApLKO0soSPvHrd0E4iPku0NjOtc=
+github.com/urkx/LZ77 v0.1.1 h1:Vxi/stADj2CmqKNoZe3OXeuAwZP1Dod+mGpSI4TxrAA=
+github.com/urkx/LZ77 v0.1.1/go.mod h1:urFtgLhps7zz3aTQbiaQIhmcro/YeZh1UWx1SKpmZDk=
+github.com/urkx/LZ77 v0.1.2 h1:vqoEENO+A9WxJhCJhxdvNpOqYoib6/T8UZwBXf9PnZk=
+github.com/urkx/LZ77 v0.1.2/go.mod h1:urFtgLhps7zz3aTQbiaQIhmcro/YeZh1UWx1SKpmZDk=
 github.com/urkx/LZWCompress v0.1.0 h1:eVPdielxNmA1Dy+gGXZmfCZ+JV+zS++kQNBkKMIfuno=
 github.com/urkx/LZWCompress v0.1.0/go.mod h1:3Vb9kFknrYEwnvv+AIpvfZhnn7Gv469iu1z2KxxFzho=
